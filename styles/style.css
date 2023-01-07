@@ -1,6 +1,6 @@
 * {
     padding: 0px;
-    margin: 0px;
+    
 }
 
 .container {
@@ -17,12 +17,12 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 808px;
+    height: 600px;
 }
 
 .header .container {
     display: flex;
-    justify-content: end;
+    justify-content:right;
     align-items: center;
 }
 
@@ -116,10 +116,9 @@
     color: gray;
 }
 
-/* My failures of previous year end */
 
 
-/* My Plans start */
+
 
 .plans {
     padding: 80px 0px;
@@ -170,12 +169,6 @@
     color: #737272;
     padding: 5px 0px;
 }
-
-/* My Plans end */
-
-
-/* mindset start */
-
 .mind {
     padding: 80px 0px;
     font-family: 'Work Sans', sans-serif;
@@ -220,7 +213,7 @@
     cursor: pointer;
 }
 
-/* mind end */
+
 
 
 /*  footer start  */
@@ -239,7 +232,7 @@
 .Future .sec-des{
     color: #FFFFFF;
 }
-.Future .btn_primary{
+.Future .btn-primary{
     font-style: normal;
     font-weight: 600;
     font-size: 20px;
@@ -266,4 +259,3 @@
     height: 40px;
     padding: 18px 30px;
 }
-/*  footer end  */
